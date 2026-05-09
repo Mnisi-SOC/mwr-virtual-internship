@@ -18,6 +18,7 @@ gobuster dir -u http://java.uploadvulns.thm -w directory-list-2.3-medium.txt -t 
 ### Directories Found
 - `/images`
 - `/assets`
+
 The `/images` directory appeared to be the location where uploaded files were stored.
 
 ![gobuster](../images/Week9.2.png)

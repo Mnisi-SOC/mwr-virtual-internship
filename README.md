@@ -25,25 +25,6 @@ The internship used **TryHackMe** labs to provide practical experience with comm
 
 ---
 
-## Labs Included
-
-### SQL Injection
-- Union-Based SQL Injection
-
-### JWT Security
-- JWT Signature Validation
-
-### Cross-Site Scripting (XSS)
-- Stored XSS
-
-### File Upload Vulnerabilities
-- Client-Side File Filtering
-
-### Password Attacks
-- Hydra SSH Brute Force
-
----
-
 ## Tools & Technologies
 
 - Kali Linux
@@ -86,11 +67,3 @@ All activities documented in this repository were conducted in authorised traini
 These write-ups are shared for educational purposes only.
 
 ---
-
-## Author
-
-**Simphiwe Siyanda**
-
-BSc Computer Science Student | Aspiring SOC Analyst
-
-Building practical cybersecurity skills through hands-on labs, technical documentation, and continuous learning.

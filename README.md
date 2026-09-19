@@ -10,7 +10,7 @@ The internship used **TryHackMe** labs to provide practical experience with comm
 
 ```
 .
-├── RCE and file-upload
+├── rce and file-upload
 │   └── client-side-filtering.md
 ├── hydra-ssh
 │   └── hydra.md
